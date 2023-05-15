@@ -2,7 +2,7 @@
 
 <h1>Analyze NFL Stats with Python<h1>
 
-<h2>Overview<h2>
+<h2>Overview</h2>
 This case study takes you through an analysis of NFL games for 32 teams in the 2021 season. Throughout the analysis you will:
 
 <ul>
